@@ -10,5 +10,4 @@ public class Car {
     }
     public void back(){
         System.out.println("후진하다.");
-    }
-}
+    }}
